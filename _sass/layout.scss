@@ -77,7 +77,7 @@
 }
 
 .main-header {
-  z-index: 0;
+  z-index: 1;
   border-bottom: $border $border-color;
 
   @include mq(md) {
@@ -86,6 +86,21 @@
     height: $header-height;
   }
 }
+
+.custom-main-header {
+  display: flex;
+  justify-content: flex-end;
+  text-align: center;
+  // height: $sp-10;
+  padding: $sp-4;
+}
+
+.custom-main-header nav li {
+  display: inline-block;
+  margin-right: $sp-7;
+
+}
+
 
 .site-nav,
 .site-header,
