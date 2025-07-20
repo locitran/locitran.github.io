@@ -7,7 +7,7 @@ title: About
 # Hello!
 
 {: .fs-5 .mb-3 }
-I am a computational social scientist interested in problems of organization, strategy, and decision-making. I am currently [Senior Lecturer in Creative Industries](https://www.business-school.ed.ac.uk/staff/michele-piazzai) at the University of Edinburgh.
+I am a Research Assistant at [Computational Biology Lab](https://dyn.life.nthu.edu.tw/main/), Institute of Bioinformatics and Structural Biology, National Tsing Hua University, Taiwan.
 
 {: .fs-5 .mb-4 }
-You can reach me at [michele.piazzai@ed.ac.uk](mailto:michele.piazzai@ed.ac.uk).
+You can reach me at [locitran0521@gmail.com](mailto:locitran0521@gmail.com).
