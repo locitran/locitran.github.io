@@ -1,0 +1,17 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+svg {
+    color: var(--bs-body-color);
+
+    &:hover {
+        color: var(--bs-tertiary-color);
+    }
+}
