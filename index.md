@@ -1,4 +1,4 @@
 ---
 permalink: /
-redirect_to: /CV.pdf
+redirect_to: /cv.pdf
 ---
